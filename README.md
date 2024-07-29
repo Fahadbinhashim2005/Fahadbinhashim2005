@@ -30,7 +30,7 @@ I'm currently S3 Computer Science Engineering student at Saintgits College Of En
 
 
 ### GitHub Repositories
-- [Repository 2](https://github.com/Fahadbinhashim2005/Computational-Linear-Algebra): This repository contains materials and code related to the Computational Linear Algebra course, which was part of the minor in Computational Mathematics that I took. It includes implementations of various linear algebra algorithms, numerical methods, and problem-solving techniques using Python.
+- Computational Linear Algebra(https://github.com/Fahadbinhashim2005/Computational-Linear-Algebra): This repository contains materials and code related to the Computational Linear Algebra course, which was part of the minor in Computational Mathematics that I took. It includes implementations of various linear algebra algorithms, numerical methods, and problem-solving techniques using Python.
 
 
 
