@@ -234,14 +234,6 @@ graph LR
 
 ## 🎯 Goals
 
-### ✅ 2025
-- [x] Start B.Tech in CS Engineering
-- [x] Build first GitHub Repository
-- [ ] Launch a Full Stack Web Project
-- [ ] Contribute to Open Source
-- [ ] Land first AI/ML Internship
-- [ ] Master Blender 3D Fundamentals
-
 ### 🔥 2026
 - [ ] Complete Farsi Laban Website 🍮
 - [ ] Learn MERN Stack
@@ -298,54 +290,3 @@ graph LR
 </div>
   <img src="https://img.shields.io/badge/Gmail-fahadbinhashim03%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
 </a>
-
-<br/><br/>
-
-<a href="https://github.com/fahadbinhashim">
-  <img src="https://img.shields.io/badge/GitHub-fahadbinhashim-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/fahadbinhashim">
-  <img src="https://img.shields.io/badge/Instagram-@fahadbinhashim-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e"/>
-</a>
-&nbsp;
-<a href="https://discord.com/users/fahadbinhashim">
-  <img src="https://img.shields.io/badge/Discord-fahadbinhashim-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 2025 Goals
-
-- [x] Start B.Tech in CS Engineering
-- [x] Build first GitHub Repository
-- [ ] Complete NPTEL ML Certification
-- [ ] Launch a Full Stack Web Project
-- [ ] Build & Deploy a SaaS MVP
-- [ ] Contribute to Open Source
-- [ ] Land first AI/ML internship
-- [ ] Master Blender 3D Fundamentals
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Dev Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="80%"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Dream.%20Build.%20Learn.%20Improve.%20Repeat.&fontSize=18&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-</div>
