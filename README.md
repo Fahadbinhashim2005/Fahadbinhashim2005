@@ -286,7 +286,3 @@ graph LR
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Dream.%20Build.%20Learn.%20Improve.%20Repeat.&fontSize=18&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-</div>
-  <img src="https://img.shields.io/badge/Gmail-fahadbinhashim03%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
-</a>
